@@ -5,8 +5,10 @@ html, body {
 
 body {
   padding: 20px;
-  background: url("asset/mainPageBackground.png") fixed;
-  background-repeat: repeat;
+  background: url("/static/asset/mainPageBackground.png") fixed;
+  background-repeat: no-repeat;
+  background-size： cover；
+  background-position: center;
 }
 
 ul#menu {
