@@ -5,10 +5,11 @@ html, body {
 
 body {
   padding: 20px;
-  background: url("/static/asset/mainPageBackground.png") fixed;
+  background: url("/static/asset/mainBG.png") fixed;
   background-repeat: no-repeat;
-  background-size： cover；
   background-position: center;
+  background-width:100%；
+  background-height:auto;
 }
 
 ul#menu {
